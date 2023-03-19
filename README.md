@@ -2,7 +2,8 @@
 
 ### About
 
-In this challenge, we practice printing to stdout. Complete the main method by copying the two lines of code below and pasting them inside the body of your main method.
+In this challenge, we practice printing to stdout. Complete the main method by copying the two lines of code below and
+pasting them inside the body of your main method.
 
 ```
 System.out.println("Hello, World.");
